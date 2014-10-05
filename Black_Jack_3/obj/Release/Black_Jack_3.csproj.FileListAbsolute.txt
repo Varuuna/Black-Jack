@@ -1,0 +1,6 @@
+C:\Users\Fredrik\Google Drive\Visual Studio 2012\Projects\Black_Jack_3\Black_Jack_3\bin\Release\Black_Jack_3.exe.config
+C:\Users\Fredrik\Google Drive\Visual Studio 2012\Projects\Black_Jack_3\Black_Jack_3\bin\Release\Black_Jack_3.exe
+C:\Users\Fredrik\Google Drive\Visual Studio 2012\Projects\Black_Jack_3\Black_Jack_3\bin\Release\Black_Jack_3.pdb
+C:\Users\Fredrik\Google Drive\Visual Studio 2012\Projects\Black_Jack_3\Black_Jack_3\obj\Release\Black_Jack_3.csprojResolveAssemblyReference.cache
+C:\Users\Fredrik\Google Drive\Visual Studio 2012\Projects\Black_Jack_3\Black_Jack_3\obj\Release\Black_Jack_3.exe
+C:\Users\Fredrik\Google Drive\Visual Studio 2012\Projects\Black_Jack_3\Black_Jack_3\obj\Release\Black_Jack_3.pdb
