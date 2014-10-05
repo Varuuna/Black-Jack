@@ -1,0 +1,9 @@
+-------------------------------------
+CHANGELOG
+-------------------------------------
+
+v0.8
+-------------------------------------
+-Added a piece of logical code to prevent the same card
+    from being drawn more than once in the same round.
+-------------------------------------
