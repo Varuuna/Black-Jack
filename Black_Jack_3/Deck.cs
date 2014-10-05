@@ -60,10 +60,12 @@ namespace Black_Jack_3
 			}
 		}
 
-		// Randomly generates a card from the deck.
+		/* Randomly generates a card from the deck. Also removes that card from the
+		 * deck so that it may never be drawn again in the same round. */
 		public Card GetCard()
 		{
 			int card = random.Next(0, 52);
+			deck.RemoveAt(card+1);
 			return deck[card];
 		}
 

@@ -27,7 +27,7 @@ namespace Black_Jack_3
 				// Clears the console and resets everything. Welcomes the player and allows him to enter his/her name.
 				Console.Clear();
 				int PlayerSum = 0, DealerSum = 0;
-				Console.WriteLine("Welcome to Black Jack! (v0.7)\nCreated by: Fredrik Andreasson\n");
+				Console.WriteLine("Welcome to Black Jack! (v0.8)\nCreated by: Fredrik Andreasson\n");
 				Console.Write("Please enter your name: ");
 				player.Name = Console.ReadLine();
 				Console.Clear();
