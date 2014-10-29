@@ -1,6 +1,0 @@
-C:\Users\Fredrik\Google Drive\Visual Studio 2012\Projects\Black Jack\Black Jack\bin\Release\Black Jack.exe.config
-C:\Users\Fredrik\Google Drive\Visual Studio 2012\Projects\Black Jack\Black Jack\bin\Release\Black Jack.exe
-C:\Users\Fredrik\Google Drive\Visual Studio 2012\Projects\Black Jack\Black Jack\bin\Release\Black Jack.pdb
-C:\Users\Fredrik\Google Drive\Visual Studio 2012\Projects\Black Jack\Black Jack\obj\Release\Black Jack.exe
-C:\Users\Fredrik\Google Drive\Visual Studio 2012\Projects\Black Jack\Black Jack\obj\Release\Black Jack.pdb
-C:\Users\Fredrik\Google Drive\Visual Studio 2012\Projects\Black Jack\Black Jack\obj\Release\Black Jack.csprojResolveAssemblyReference.cache
